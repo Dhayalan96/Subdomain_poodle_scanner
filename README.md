@@ -3,9 +3,9 @@ Scans the subdomains of the given Domiain for Poodle Vulnerability
 
 pre requisites
 
-    * Python 3
-    * An SSL library that supports SSLv3
-    * Beautifulsoup4
+ * Python 3
+ * An SSL library that supports SSLv3
+ * Beautifulsoup4
 
 <h1>Basic Usage </h1>
 
