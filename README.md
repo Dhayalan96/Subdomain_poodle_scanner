@@ -1,5 +1,6 @@
 # Subdomain_poodle_scanner
 Scans the subdomains of the given Domiain for Poodle Vulnerability
+  This script dnsdumpster.com to get the DNS records
 
 pre requisites
 
