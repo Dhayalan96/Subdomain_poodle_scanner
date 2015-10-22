@@ -4,7 +4,7 @@ Scans the subdomains of the given Domiain for Poodle Vulnerability
 
 pre requisites
 
- * Python 3 (Doesn't work with python2.7)
+ * Python 3 ( Doesn't work with python2.7 )
  * An SSL library that supports SSLv3
  * Beautifulsoup4
 
